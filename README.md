@@ -20,9 +20,6 @@ Sales Performance Analysis: Detailed analysis of sales performance segmented by 
 Interactive Data Exploration
 To enhance user engagement and data exploration capabilities, I implemented interactive features within the dashboards:
 
-Slicers: Slicers are used to enable dynamic filtering of data. Users can filter sales data by different dimensions such as time periods (year, quarter, month), regions, and product categories.
-Drill-Throughs and Tooltips: Added drill-through capabilities and custom tooltips to provide more detailed information upon interaction with specific data points.
-Dynamic Dashboards: Created dashboards that automatically update with new data, ensuring that users always have access to the most current information.
 ## Insights and Conclusions
 The Rossmann Sales Report Analysis offers valuable insights into the sales trends and performance drivers for the company. Key findings from this analysis include:
 
